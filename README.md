@@ -1,6 +1,8 @@
 [![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)](https://www.youtube.com/watch?v=SDkAGkd4NLc) 
 ## Hi there 👋
 
+![github graph](https://activity-graph.herokuapp.com/graph?username=tanyagupta0201&theme=react-dark)
+
 ![drunkenbtterfly's GitHub Stats](https://github-readme-stats.vercel.app/api?username=drunkenbtterfly&show_icons=true&theme=radical)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=drunkenbtterfly&layout=compact&theme=radical)
